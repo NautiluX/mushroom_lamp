@@ -25,4 +25,4 @@ I printed them on a Lulzbot TAZ 6 using transparent PLA.
 * Keep touched: adjust brightness
 * Double touch: change color
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sFy_6FggQTg/0.jpg)](https://www.youtube.com/watch?v=sFy_6FggQTg)
+[![Demo Video](https://img.youtube.com/vi/sFy_6FggQTg/0.jpg)](https://www.youtube.com/watch?v=sFy_6FggQTg)
