@@ -11,5 +11,18 @@ Mushroom shaped lamp powered by arduino and a neopixel compatible LED ring
 
 Arduino code can be found [here](arduino/MushroomLamp.ino)
 
+The `Adafruit_NeoPixel` library is used in this project.
+
 ## 3D Model
 
+3D models can be found  [here](models)
+
+I printed them on a Lulzbot TAZ 6 using transparent PLA.
+
+## Usage
+
+* Single touch: toggle on/off
+* Keep touched: adjust brightness
+* Double touch: change color
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sFy_6FggQTg/0.jpg)](https://www.youtube.com/watch?v=sFy_6FggQTg)
